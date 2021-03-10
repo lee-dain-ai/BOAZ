@@ -1,1 +1,1 @@
-# 보아즈 세션 과제
+# Boaz session assignment
